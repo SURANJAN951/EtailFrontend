@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .onboarding-input {
+    @apply w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent
+    dark:bg-dark-card dark:border-dark-border dark:text-dark-text;
+  }
+  
+  .btn-primary {
+    @apply px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors
+    dark:bg-blue-700 dark:hover:bg-blue-800;
+  }
+  
+  .btn-secondary {
+    @apply px-6 py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 transition-colors
+    dark:bg-gray-700 dark:text-gray-200 dark:hover:bg-gray-600;
+  }
+  
+  .dashboard-card {
+    @apply bg-white p-6 rounded-xl shadow-lg
+    dark:bg-dark-card dark:text-dark-text dark:border dark:border-dark-border;
+  }
+}
