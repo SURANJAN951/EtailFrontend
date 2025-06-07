@@ -106,6 +106,7 @@ With Dark Mode:-
 
 ![Screenshot (978)](https://github.com/user-attachments/assets/57525cc6-47f4-4d5a-b93b-feaaf804cc71)
 
+LocalStorage:-
 
 ![Screenshot (979)](https://github.com/user-attachments/assets/c346baa2-15cb-43f0-a8ab-986b7efed6e8)
 
