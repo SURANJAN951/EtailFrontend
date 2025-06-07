@@ -11,7 +11,6 @@ This project implements a **multi-step onboarding wizard** and a **responsive da
 - [🛠️ Technologies Used](#-technologies-used)
 - [📁 Project Structure](#-project-structure)
 - [⚙️ Getting Started](#️-getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [🧩 Onboarding Wizard Details](#-onboarding-wizard-details)
@@ -57,6 +56,25 @@ This project implements a **multi-step onboarding wizard** and a **responsive da
 
 ---
 
+---
+
+## 🚀 Installation Guide
+
+### ✅ Prerequisites
+
+- Node.js (v16+)
+- npm or yarn
+- Git (optional)
+
+### 📦 Steps
+
+```bash
+git clone https://github.com/SURANJAN951/EtailFrontend.git
+cd EtailFrontend
+npm install
+npm start
+```
+
 ## 📁 Project Structure
 
 
@@ -69,18 +87,25 @@ ScreenShot:-
 
 ![Screenshot (972)](https://github.com/user-attachments/assets/1641dcef-0cef-468f-b3bc-bb02c61a6dfa)
 
+
 ![Screenshot (973)](https://github.com/user-attachments/assets/0bf5e23d-d329-4181-a87c-6ad808027112)
+
 
 ![Screenshot (974)](https://github.com/user-attachments/assets/6fb488a5-1481-4e70-8412-80ebabdc7172)
 
+
 ![Screenshot (975)](https://github.com/user-attachments/assets/e9f686af-f3bf-4c7c-85c4-d68f9c7b1e6a)
+
 With Dark Mode:-
 
 ![Screenshot (976)](https://github.com/user-attachments/assets/0acf6460-4d69-41ab-8dc5-a36187237a87)
 
+
 ![Screenshot (977)](https://github.com/user-attachments/assets/6bd09d7c-ad09-4769-955a-a0b5fa382c47)
 
+
 ![Screenshot (978)](https://github.com/user-attachments/assets/57525cc6-47f4-4d5a-b93b-feaaf804cc71)
+
 
 ![Screenshot (979)](https://github.com/user-attachments/assets/c346baa2-15cb-43f0-a8ab-986b7efed6e8)
 
